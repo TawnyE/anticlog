@@ -1,0 +1,5 @@
+name: anticlog
+version: '1.0-SNAPSHOT'
+main: org.taw.anticlog.Anticlog
+api-version: 1.19
+author: Tawny

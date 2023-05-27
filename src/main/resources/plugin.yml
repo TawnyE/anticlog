@@ -1,0 +1,5 @@
+name: anticlog
+version: '${project.version}'
+main: org.taw.anticlog.Anticlog
+api-version: 1.19
+author: Tawny
